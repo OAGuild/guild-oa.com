@@ -10,7 +10,8 @@ relative_permalinks: false
 # Setup
 title:            Guild
 tagline:          'OpenArena clan'
-description:      'New <a href="https://en.wikipedia.org/wiki/OpenArena" target="_blank">OpenArena</a> clan since 2016. <img src ="/guild.png" width = "300px" height="300px"/>'
+description:      'New <a href="https://en.wikipedia.org/wiki/OpenArena" target="_blank">OpenArena</a> clan since 2016.<br>
+                   Let''s make OA a better place together! <img src ="/guild.png" width = "300px" height="300px"/>'
 url:              http://guild-oa.com
 baseurl:          /
 
