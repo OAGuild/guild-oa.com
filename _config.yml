@@ -1,0 +1,28 @@
+# Dependencies
+highlighter:      rouge
+
+gems: [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Guild
+tagline:          'OpenArena clan'
+description:      'New <a href="https://en.wikipedia.org/wiki/OpenArena" target="_blank">OpenArena</a> clan since 2016.<br>
+                   Let''s make OA a better place together! <img src ="/guild.png" width = "300px" height="300px"/>'
+url:              http://guild-oa.com
+baseurl:          /
+
+author:
+  name:           'Dio Eraclea'
+  url:            https://github.com/guilddio
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/OAGuild
