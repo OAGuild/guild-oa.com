@@ -11,11 +11,12 @@ The story began in October 2016, when the idea of creating new,
 special (means based on the ideas listed above) and innovative clan/team
 first came to my mind. Taking into account that no large-scale or really
 significant events have happened yet, simple and short events list seems
-to be enough. Information on any important events will be pubslished in
+to be enough. Information on any important events will be published in
 the main section of the site in the form of posts.
 
 ### Events log
 
+`May 2017`: Yukii joined The Guild.<br>
 `May 2017`: discord channel was opened.<br>
 `May 2017`: guild-oa.com is UP.<br>
 `May 2017`: Laurie and Zombie joined The Guild.<br>
