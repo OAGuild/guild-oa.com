@@ -5,6 +5,29 @@ title: About
 
 ## Philosophy
 
+The following principles are considered to be axioms for us, and in case you
+are thinking about the opportunity to join The Guild, please read them all
+and decide for yourself.
+
+ - We believe that OpenArena is very special (of course, in a good way) game,
+   mostly because of its community. We appreciate both OpenArena and its
+   community very much.
+ - The point isn't just in Gameplay. OA is the way of communication.
+ - All our members have reputation. We are old-timers in this game, we respect
+   other players and we are respcted by others. If you want to be among us,
+   take into account that things such us insulting, spamming, camping, any
+   kinds of unfair play or disrespect for others aren't allowed.
+ - Although, as already mentioned, Gameplay itself isn't the most important
+   thing for us, we are the team of skillful players. *If you want to be among
+   us, have some skill.*
+ - We believe that there are many ways of improving/developing OA (or set
+   of related technologies). We have [some ideas](https://github.com/OAGuild)
+   and we are trying to work on it apart from other gaming activities.
+ - We enjoy any types of *Clans action*, especially participation in *Clan Wars*.
+   The Guild makes efforts to organize it. We hope that one fine day the former
+   popularity of clans and clans rivalry will revive in OA.
+ - We take pleasure in playing togerther. We like each other. ;)
+
 ## History
 
 The story began in October 2016, when the idea of creating new,
@@ -16,6 +39,7 @@ the main section of the site in the form of posts.
 
 ### Events log
 
+`May 2017`: Guild/ CTF TRAINING server was started.<br>
 `May 2017`: Yukii joined The Guild.<br>
 `May 2017`: discord channel was opened.<br>
 `May 2017`: guild-oa.com is UP.<br>
