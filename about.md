@@ -9,24 +9,29 @@ The following principles are considered to be axioms for us, and in case you
 are thinking about the opportunity to join The Guild, please read them all
 and decide for yourself.
 
- - We believe that OpenArena is very special (of course, in a good way) game,
-   mostly because of its community. We appreciate both OpenArena and its
-   community very much.
- - The point isn't just in Gameplay. OA is the way of communication.
- - All our members have reputation. We are old-timers in this game, we respect
-   other players and we are respcted by others. If you want to be among us,
-   take into account that things such us insulting, spamming, camping, any
-   kinds of unfair play or disrespect for others aren't allowed.
- - Although, as already mentioned, Gameplay itself isn't the most important
-   thing for us, we are the team of skillful players. *If you want to be among
-   us, have some skill.*
+ - We believe that OpenArena is unique, thanks mostly to its community. We like 
+   both OpenArena and its community very much.
+ - *Having a good sportsmanship is* **very important**. We are old-timers in this
+   game, we respect other players and we are respected by others.
+   Even when a game turns bad, we stay under control and keep it cool. We compliment
+   our opponents when we lose a fair game. *We want to maintain a positive reputation 
+   within OA community*.
+   So if you want to be among us, take into account that behaviours such as flaming,
+   spamming, cheating, any kinds of unfair play or disrespect for others are
+   strongly discouraged.
+ - Even if winning is not the utmost priority for us, we are a team of skillful players.
+   *If you want to be among us, have some skill.* Otherwise keep practicing, we were
+   all newbies once at some point.
  - We believe that there are many ways of improving/developing OA (or set
    of related technologies). We have [some ideas](https://github.com/OAGuild)
    and we are trying to work on it apart from other gaming activities.
  - We enjoy any types of *Clans action*, especially participation in *Clan Wars*.
    The Guild makes efforts to organize it. We hope that one fine day the former
    popularity of clans and clans rivalry will revive in OA.
- - We take pleasure in playing togerther. We like each other. ;)
+ - Another important thing is to *have fun*. We take pleasure in playing together.
+   We like each other. ;) We also use the game as a way of communication.
+   If you don't have fun in the game, you are doing it wrong :p
+
 
 ## History
 
