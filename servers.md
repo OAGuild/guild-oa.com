@@ -15,3 +15,5 @@ effects modification (thanks to `h4l.smerty`).
 `139.59.157.216:27962`
 
 Excessiveplus CTF server configured for physics and weapons damage of `:F normal`.
+
+![gif](http://guild-oa.com/stuff/OA2.gif)
