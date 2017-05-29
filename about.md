@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+<img src ="/OpenArena.png" width = "768px" height="432px"/>
+
 ## Philosophy
 
 The following principles are considered to be axioms for us, and in case you
@@ -44,6 +46,7 @@ the main section of the site in the form of posts.
 
 ### Events log
 
+`May 28, 2017`: CW Guild - SoS, see [the post](/2017/05/29/clan-war) for details.<br>
 `May 2017`: Guild/ CTF TRAINING server was started.<br>
 `May 2017`: Yukii joined The Guild.<br>
 `May 2017`: discord channel was opened.<br>
