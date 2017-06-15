@@ -46,6 +46,7 @@ the main section of the site in the form of posts.
 
 ### Events log
 
+`June 15, 2017`: Commie joined The Guild.<br>
 `May 28, 2017`: CW Guild - SoS, see [the post](/2017/05/29/clan-war) for details.<br>
 `May 2017`: Guild/ CTF TRAINING server was started.<br>
 `May 2017`: Yukii joined The Guild.<br>
