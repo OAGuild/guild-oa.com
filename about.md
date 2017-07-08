@@ -46,6 +46,9 @@ the main section of the site in the form of posts.
 
 ### Events log
 
+`July 7, 2017`: Slink joined The Guild.<br>
+`July 6, 2017`: Kensei (aka N/A) joined The Guild.<br>
+`July 5, 2017`: Mykii joined The Guild.<br>
 `June 15, 2017`: Commie joined The Guild.<br>
 `May 28, 2017`: CW Guild - SoS, see [the post](/2017/05/29/clan-war) for details.<br>
 `May 2017`: Guild/ CTF TRAINING server was started.<br>
