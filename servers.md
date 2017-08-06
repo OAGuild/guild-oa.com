@@ -7,13 +7,13 @@ title: Servers
 
 `139.59.157.216:27961`
 
-Instantgib (rail + gauntlent) CTF server with bright skins and some sound
-effects modification (thanks to `h4l.smerty`).
+Instantgib (railgun + gauntlet) CTF server with bright skins and some sound
+effect modifications (thanks to `h4l.smerty`).
 
 <span style="color:gold; font-size: 2em;">*</span><span style="color:red; font-size: 2em;">Guild</span><span style="color:gold; font-size: 2em;">*</span><span style="color:#FF1493; font-size: 2em;">/</span><span style="color:#00FFFF; font-size: 2em;"> CTF TRAINING</span>
 
 `139.59.157.216:27962`
 
-Excessiveplus CTF server configured for physics and weapons damage of `:F normal`.
+Excessive Plus CTF server configured for physics and weapon damage of `:F normal`.
 
 ![gif](http://guild-oa.com/stuff/OA2.gif)
