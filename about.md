@@ -46,6 +46,7 @@ the main section of the site in the form of posts.
 
 ### Events log
 
+`August 8, 2017`: Radio joined The Guild.<br>
 `July 7, 2017`: Slink joined The Guild.<br>
 `July 6, 2017`: Kensei (aka N/A) joined The Guild.<br>
 `July 5, 2017`: Mykii joined The Guild.<br>
