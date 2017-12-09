@@ -46,6 +46,8 @@ the main section of the site in the form of posts.
 
 ### Events log
 
+`December 8, 2017`: Pureacc joined The Guild.<br>
+`September 2017`: Cep joined The Guild.<br>
 `August 8, 2017`: Radio joined The Guild.<br>
 `July 7, 2017`: Slink joined The Guild.<br>
 `July 6, 2017`: Kensei (aka N/A) joined The Guild.<br>
