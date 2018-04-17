@@ -46,9 +46,11 @@ the main section of the site in the form of posts.
 
 ### Events log
 
+*2018*<br>
 `April 15, 2018`: 4 Guild servers with OATOT mod were launched.<br>
 `April 14, 2018`: OATOT mod v 0.1 was released.<br>
 `January 22, 2018`: Coco joined The Guild.<br>
+*2017*<br>
 `December 8, 2017`: Pureacc joined The Guild.<br>
 `September 2017`: Cep joined The Guild.<br>
 `August 8, 2017`: Radio joined The Guild.<br>
@@ -65,6 +67,7 @@ the main section of the site in the form of posts.
 `April 2017`: IRC channel `#guildclan on quakenet` was started.<br>
 `April 2017`: Rocky&Dio's Instantgib Server was started.<br>
 `February 2017`: Merry joined The Guild.<br>
+*2016*<br>
 `December 2016`: All joined The Guild.<br>
 `December 2016`: MiniCup (Insta CTF) with Astra clan (2vs2); Guild won `8 : 5`.<br>
 `December 2016`: Slack channel was opened.<br>
