@@ -11,6 +11,8 @@ Make betting (with both virtual currency or [BTC][BTC-link]) possible in [OA][OA
 
 Just for fun and to keep the game I love alive.
 
+[See][mod-doc] also the list of Cvars and Cmds.
+
 ## Version 0.1
 
 Modified OAX. The mod is currently **only CTF-oriented** (both betting structure and user interface).
@@ -134,3 +136,4 @@ See the README for implementation and internals overview.
 
 [BTC-link]: https://en.wikipedia.org/wiki/Bitcoin
 [OA-link]: https://en.wikipedia.org/wiki/OpenArena
+[mod-doc]: https://github.com/GuildDio/oatot/blob/gameplay-improvements/mod_doc.md
